@@ -34,7 +34,7 @@ Ran some python code to get answers for 15 questions. This questions are:
 Using different plots to make the dataset easy to understand and to draw som insights from it. 
 Some of these plots are ment to check the correlations, others are ment to find some info related to the subjects offered by Udemy.
 
-<img src="avg_subscriber_by_subject.png" width="450" height="450"> <img src="%paid_vs_free.png" width="450" height="450"> <img src="courses_prices.png" width="450" height="450"> <img src="num_courses_by_year.png" width="450" height="450"> 
+<img src="avg_subscriber_by_subject.png" width="450" height="450"> <img src="percentage_paid_vs_free.png" width="450" height="450"> <img src="courses_prices.png" width="450" height="450"> <img src="num_courses_by_year.png" width="450" height="450"> 
 
 ## Resources
 Udemy courses dataset: https://www.kaggle.com/andrewmvd/udemy-courses  
